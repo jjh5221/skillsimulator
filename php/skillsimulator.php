@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="../css/bootstrap.min.css" rel="stylesheet">
     <link href="../css/skillsimulator.css" rel="stylesheet">
-    <title>D&B Skill Simulator</title>
+    <title>D&F Skill Simulator</title>
   </head>
   <body>
     <div style="margin-top:10px">
