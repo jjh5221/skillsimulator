@@ -1,7 +1,7 @@
 skillsimulator
 ==============
 
-DnB Skill Simulator
+DnF Skill Simulator
 
 
 -- DROP DATABASE skillsimulator;
